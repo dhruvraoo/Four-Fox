@@ -11,9 +11,13 @@ Click on any organ in the anatomical diagram to learn about potential cancers re
 🛠️ Tech Stack
 Layer	Technology
 Frontend -->	HTML, CSS, JavaScript
+
 Backend	--> Python (Flask / FastAPI)
+
 ML/AI Model	--> TeachMachine/ huggingface / PyTorch
+
 Image Handling	OpenCV
+
 Deployment	Localhost / Streamlit / Web App
 
 > How It Works
