@@ -8,17 +8,6 @@ A smart chatbot interface to assist users with questions related to cancer, symp
 🧬 Organ-Based Cancer Information
 Click on any organ in the anatomical diagram to learn about potential cancers related to that organ, symptoms, and risk factors.
 
-🛠️ Tech Stack
-Layer	Technology
-Frontend -->	HTML, CSS, JavaScript
-
-Backend	--> Python (Flask / FastAPI)
-
-ML/AI Model	--> TeachMachine/ huggingface / PyTorch
-
-Image Handling	OpenCV
-
-Deployment	Localhost / Streamlit / Web App
 
 > How It Works
 1) Show your skin region to the webcam.
@@ -26,3 +15,11 @@ Deployment	Localhost / Streamlit / Web App
 3) The output is visualized in real-time through a progress bar.
 4) Click on any organ in the body diagram to receive detailed information about cancers related to that organ.
 5) Use the chatbot to ask any questions related to cancer, diagnosis, prevention, or symptoms.
+
+🛠️ Tech Stack
+Layer	Technology
+Frontend -->	HTML, CSS, JavaScript.
+Backend	--> Python (Flask / FastAPI).
+ML/AI Model	--> TeachMachine/ huggingface / PyTorch.
+Image Handling	OpenCV.
+Deployment	Localhost / Streamlit / Web App.
