@@ -17,9 +17,9 @@ Click on any organ in the anatomical diagram to learn about potential cancers re
 5) Use the chatbot to ask any questions related to cancer, diagnosis, prevention, or symptoms.
 
 🛠️ Tech Stack
-Layer	Technology
-Frontend -->	HTML, CSS, JavaScript.
-Backend	--> Python (Flask / FastAPI).
-ML/AI Model	--> TeachMachine/ huggingface / PyTorch.
-Image Handling	OpenCV.
-Deployment	Localhost / Streamlit / Web App.
+Layer	Technology <br>
+Frontend -->	HTML, CSS, JavaScript. <br>
+Backend	--> Python (Flask / FastAPI). <br>
+ML/AI Model	--> TeachMachine/ huggingface / PyTorch. <br>
+Image Handling	OpenCV. <br>
+Deployment	Localhost / Streamlit / Web App. <br>
