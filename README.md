@@ -1,4 +1,4 @@
-# Four-Fox
+# Four-Fox or skin cancer detector 
 📷 Real-Time Webcam Detection
 Analyze skin conditions via webcam input and display cancer likelihood using a smooth animated progress bar.
 
